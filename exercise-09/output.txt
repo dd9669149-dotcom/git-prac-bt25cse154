@@ -1,0 +1,4 @@
+Conflict created: mode.txt
+Conflict resolved: yes
+Final file content: mode=merged
+Merge status: successful.
