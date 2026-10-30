@@ -1,0 +1,5 @@
+Change staged: yes
+Change unstaged: yes
+Staging removed with git restore --staged.
+Unstaged change discarded with git restore.
+Final working tree: clean.
