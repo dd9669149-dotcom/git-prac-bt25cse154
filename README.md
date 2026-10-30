@@ -27,13 +27,13 @@ This repository contains solutions and verified outputs for all 12 Git practical
 ## Completion Checklist
 - [x] Exercise 01: Git Configuration and Verification
 - [x] Exercise 02: Repository Documentation
-- [ ] Exercise 03: Shell Script Greeting
-- [ ] Exercise 04: Selective Staging and Commits
-- [ ] Exercise 05: Inspecting Differences with Git Diff
-- [ ] Exercise 06: Git Ignore Rules
-- [ ] Exercise 07: Feature Branching and Merging
-- [ ] Exercise 08: Branch Deletion Lifecycle
-- [ ] Exercise 09: Merge Conflict Resolution
-- [ ] Exercise 10: Unstaging and Discarding Changes
-- [ ] Exercise 11: Reverting Commits
-- [ ] Exercise 12: Stashing Changes
+- [x] Exercise 03: Shell Script Greeting
+- [x] Exercise 04: Selective Staging and Commits
+- [x] Exercise 05: Inspecting Differences with Git Diff
+- [x] Exercise 06: Git Ignore Rules
+- [x] Exercise 07: Feature Branching and Merging
+- [x] Exercise 08: Branch Deletion Lifecycle
+- [x] Exercise 09: Merge Conflict Resolution
+- [x] Exercise 10: Unstaging and Discarding Changes
+- [x] Exercise 11: Reverting Commits
+- [x] Exercise 12: Stashing Changes
