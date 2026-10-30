@@ -1,0 +1,6 @@
+Branch: feature/menu
+Option 1: Greeting works.
+Option 2: Integer addition works.
+Option 3: Even or odd check works.
+Option 4: Exit works.
+Merge status: successful.
