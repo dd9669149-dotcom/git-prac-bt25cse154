@@ -1,0 +1,11 @@
+Ignored patterns:
+*.log
+*.tmp
+build/
+.env
+
+Verification:
+Log file: ignored
+Temporary file: ignored
+Build directory: ignored
+Environment file: ignored
