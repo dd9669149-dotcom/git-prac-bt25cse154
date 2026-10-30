@@ -1,0 +1,5 @@
+README change stashed: yes
+Stash listed: yes
+Stash applied: yes
+Restored change committed: yes
+Stash cleaned up: yes
