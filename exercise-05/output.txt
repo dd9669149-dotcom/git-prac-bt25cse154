@@ -1,0 +1,3 @@
+git diff: Shows unstaged changes.
+git diff --staged: Shows staged changes.
+git diff HEAD: Shows staged and unstaged changes.
