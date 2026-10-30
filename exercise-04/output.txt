@@ -1,0 +1,3 @@
+First commit: file1.txt staged and committed.
+Second commit: file2.txt staged and committed.
+Untracked file: file3.txt
